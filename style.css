@@ -1,0 +1,116 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color:lightblue;
+}
+
+
+
+h1 {
+  background-color: #016e8f;
+  color: white; 
+  text-align: center;
+  padding: 20px 0;
+}
+
+
+
+h1 {
+  background-color: #016e8f;
+  color: white; 
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav {
+  text-align: center; 
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block; 
+  margin-right: 10px; 
+}
+
+nav ul li:last-child {
+  margin-right: 0; 
+}
+
+nav ul li a {
+  color: white; 
+  text-decoration: none;
+  background-color: #016e8f; 
+  padding: 10px 20px; 
+  border-radius: 5px; 
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 10px; 
+}
+
+nav ul li:last-child {
+  margin-right: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.container {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.small-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%; 
+  height: auto;
+}
+
+nav {
+  display: flex;
+  justify-content: center; 
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px; 
+}
+
+nav ul li:last-child {
+  margin-right: 0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 20px; 
+
+
